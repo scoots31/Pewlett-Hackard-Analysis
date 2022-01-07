@@ -33,9 +33,11 @@ We identified 1549 eligible employees. Below are were those employees are positi
 Pewlett_Hackard is facing 'silver tsunami' where 30% of their current employees will be eligible for retirement.
 
 Current employees by postion
-![Screen Shot 2022-01-07 at 10 18 29 AM](https://user-images.githubusercontent.com/93485455/148604803-85466ba5-5d2c-4e4c-bfca-06a63dfe8800.png)
+![Screen Shot 2022-01-07 at 2 46 36 PM](https://user-images.githubusercontent.com/93485455/148605276-ec9e6811-ffca-4c84-af94-153334fda9fa.png)
+
 
 Project empolyees by postion after the 'silver tsunami' wave
-![Screen Shot 2022-01-07 at 2 35 52 PM](https://user-images.githubusercontent.com/93485455/148604916-f2cbc82e-6763-4424-83f4-9dd5838d9f0f.png)
+![Screen Shot 2022-01-07 at 2 35 52 PM](https://user-images.githubusercontent.com/93485455/148605297-5511859b-fe96-492b-87a5-f0fea46b9b64.png)
+
 
 
