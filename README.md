@@ -22,10 +22,20 @@ The next step in our analysis is to identify employees are who eligible to parti
 
 ![Screen Shot 2022-01-07 at 10 53 20 AM](https://user-images.githubusercontent.com/93485455/148578218-2c32c47d-d4c6-49ba-af99-e8f9f3aae663.png)
 
-We identified 1549 eligible employees.
+We identified 1549 eligible employees. Below are were those employees are positioned in the company.
 
 ![Screen Shot 2022-01-07 at 10 56 38 AM](https://user-images.githubusercontent.com/93485455/148578735-81848c98-dc09-401d-9214-4e6319b8aefd.png)
 
 
 
 ## Summary
+
+Pewlett_Hackard is facing 'silver tsunami' where 30% of their current employees will be eligible for retirement.
+
+Current employees by postion
+![Screen Shot 2022-01-07 at 10 18 29 AM](https://user-images.githubusercontent.com/93485455/148604803-85466ba5-5d2c-4e4c-bfca-06a63dfe8800.png)
+
+Project empolyees by postion after the 'silver tsunami' wave
+![Screen Shot 2022-01-07 at 2 35 52 PM](https://user-images.githubusercontent.com/93485455/148604916-f2cbc82e-6763-4424-83f4-9dd5838d9f0f.png)
+
+
