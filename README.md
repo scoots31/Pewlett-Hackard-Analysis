@@ -33,11 +33,15 @@ We identified 1549 eligible employees. Below are were those employees are positi
 Pewlett_Hackard is facing 'silver tsunami' where 30% of their current employees will be eligible for retirement.
 
 Current employees by postion
+
 ![Screen Shot 2022-01-07 at 2 46 36 PM](https://user-images.githubusercontent.com/93485455/148605276-ec9e6811-ffca-4c84-af94-153334fda9fa.png)
 
 
 Project empolyees by postion after the 'silver tsunami' wave
+
 ![Screen Shot 2022-01-07 at 2 35 52 PM](https://user-images.githubusercontent.com/93485455/148605297-5511859b-fe96-492b-87a5-f0fea46b9b64.png)
 
+While the wave will be felt across the entire company, the biggest amount of departures will occur in the Development, Production, and Sales areas. Based on the employess eligible for the mentorship program, the existing infrasture will not realistically support the program where it would produce a successful outcome.
 
+Further recommendations would be to analyze the actual capacity needs for each area to successfully maintain existing work product and determine if talent acquistion is necessary to replace the employees recently retired and if so what does those numbers look like? This could be a great opportunity for Pewlett_Hackard to realign and streamline the organization to better postion the company for the future. That process could better focus the needs of talent acquistion in the areas needed while doing it strategically that will have a better chance at success long-term for the company.
 
